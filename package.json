@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "protractor": "^4.0.3"
+    "gulp": "^3.9.1",
+    "gulp-protractor": "^2.1.0"
   }
 }
